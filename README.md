@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/jeasy-johnson-202026dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:johnsondisraeli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/Im_Jeasy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://img.shields.io/badge/Location-France-1f2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: France" />
+  <img src="https://img.shields.io/badge/France-1f2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: France" />
   <img src="https://komarev.com/ghpvc/?username=johnsondisraeli-prog&style=flat-square&color=4f46e5&label=Profile+views" alt="Profile views" />
 </p>
 
